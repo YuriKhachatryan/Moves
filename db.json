@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": "c286",
+      "email": "vigen@nufarmtech.com",
+      "firstName": "sfdsf",
+      "lastName": "sdfsdf",
+      "age": "12",
+      "password": "password1"
+    },
+    {
+      "id": "87eb",
+      "username": "vigen@nufarmtech.com",
+      "password": "password1"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "The Adventure Begins",
+      "description": "Join the epic journey of a hero.",
+      "year": "2020",
+      "country": "USA",
+      "rating": "PG",
+      "genres": ["Action", "Adventure"],
+      "actors": ["John Doe", "Jane Smith"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "2",
+      "title": "Romantic Sunset",
+      "description": "A heartwarming love story set against a beautiful sunset.",
+      "year": "2018",
+      "country": "France",
+      "rating": "PG-13",
+      "genres": ["Romance", "Drama"],
+      "actors": ["Emily Johnson", "Alex Rodriguez"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "3",
+      "title": "Laugh Out Loud",
+      "description": "A hilarious comedy that will keep you laughing.",
+      "year": "2021",
+      "country": "Canada",
+      "rating": "R",
+      "genres": ["Comedy"],
+      "actors": ["Mike Williams", "Sarah Brown"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "4",
+      "title": "Mystery Manor",
+      "description": "Unravel the secrets hidden within the mysterious manor.",
+      "year": "2019",
+      "country": "UK",
+      "rating": "PG",
+      "genres": ["Mystery", "Thriller"],
+      "actors": ["David White", "Emma Green"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "5",
+      "title": "Sci-Fi Odyssey",
+      "description": "Embark on a mind-bending journey through space and time.",
+      "year": "2023",
+      "country": "USA",
+      "rating": "PG-13",
+      "genres": ["Science Fiction"],
+      "actors": ["Chris Turner", "Olivia Parker"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "6",
+      "title": "The Great Heist",
+      "description": "A thrilling crime drama full of suspense and twists.",
+      "year": "2017",
+      "country": "Spain",
+      "rating": "R",
+      "genres": ["Crime", "Drama"],
+      "actors": ["Antonio Gomez", "Elena Martinez"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "7",
+      "title": "Family Ties",
+      "description": "A heartwarming tale of family bonds and love.",
+      "year": "2022",
+      "country": "USA",
+      "rating": "PG",
+      "genres": ["Family", "Drama"],
+      "actors": ["Robert Johnson", "Jennifer Adams"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "8",
+      "title": "Fantasy Kingdom",
+      "description": "Immerse yourself in a magical world of fantasy and wonder.",
+      "year": "2020",
+      "country": "Australia",
+      "rating": "PG",
+      "genres": ["Fantasy", "Adventure"],
+      "actors": ["Emma Thompson", "Daniel Harris"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "9",
+      "title": "Fantasy Kingdom",
+      "description": "Immerse yourself in a magical world of fantasy and wonder.",
+      "year": "2020",
+      "country": "Australia",
+      "rating": "PG",
+      "genres": ["Fantasy", "Adventure"],
+      "actors": ["Emma Thompson", "Daniel Harris"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "10",
+      "title": "Historical Journey",
+      "description": "Travel back in time and experience a historical adventure.",
+      "year": "2016",
+      "country": "Italy",
+      "rating": "PG-13",
+      "genres": ["Historical", "Adventure"],
+      "actors": ["Marco Rossi", "Sophia Bianchi"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "11",
+      "title": "Animated Wonderland",
+      "description": "An enchanting animated world filled with magic and joy.",
+      "year": "2019",
+      "country": "Japan",
+      "rating": "G",
+      "genres": ["Animation", "Fantasy"],
+      "actors": ["Yuki Suzuki", "Hiroshi Tanaka"],
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
